@@ -2,7 +2,7 @@
 
 Mind Memo is a React-based web application inspired by Google Keep, designed to provide users with a familiar and efficient note-taking and organization experience. With its user-friendly interface, seamless note creation, and organization features, Mind Memo aims to enhance productivity and help users keep their thoughts and ideas in order.
 
-*Live Demo:* [Mind Memo Live Demo](https://main--superb-caramel-a28100.netlify.app)
+*Live Demo:* [Mind Memo Live Demo](https://mind-memo-namya.netlify.app)
 
 ## Features
 
